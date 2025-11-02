@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pytest_cache/
+.Python
+venv/
+.venv/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Logs
+*.log
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+pnpm-lock.yaml
+yarn-error.log
+
+# Build artifacts
+dist/
+build/
+
+# OS generated files
+.DS_Store
+.cache/
+.cache
